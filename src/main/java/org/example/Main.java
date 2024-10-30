@@ -72,6 +72,6 @@ public class Main {
         }
 
         // Закрытие браузера (если нужно)
-        driver.quit();
+        // driver.quit();
     }
 }
